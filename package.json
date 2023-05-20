@@ -1,0 +1,15 @@
+{
+  "name": "fibonacci-search",
+  "version": "0.0.1",
+  "description": "implement and test fibonacci search",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "Jacob Bernard",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "29.5.0"
+  }
+}
